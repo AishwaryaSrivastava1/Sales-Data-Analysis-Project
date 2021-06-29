@@ -3,7 +3,7 @@
 Data Analysis is done on Sales Dataset containing 186850 rows and 5 columns and having a size of 31.3 MB. <br />
 Sales Data of all months are merged together to form this huge dataset. <br /> <br />
 
-The following questions are answered: <br /> <br />
+## The following questions are answered: <br />
 
 -Which is the best month for sales? <br />
 -Which city has maximum order? <br />
